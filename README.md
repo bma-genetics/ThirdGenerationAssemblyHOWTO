@@ -28,19 +28,25 @@ MaSuRCA 3.2
 http://masurca.blogspot.jp/
 
 Pacbio数据自我组装（不用二代数据）
+
 1.Canu
 http://canu.readthedocs.io/en/stable/index.html
 https://github.com/marbl/canu
+
 2.Falcon
 https://github.com/PacificBiosciences/FALCON
 https://github.com/PacificBiosciences/FALCON/wiki/Manual
+
 3.wgs assembler (PacbiotoCA)
 http://wgs-assembler.sourceforge.net/wiki/index.php?title=Main_Page
 
 
+
 10x genomics 数据比对组装
+
 比对
 https://support.10xgenomics.com/genome-exome/software/overview/welcome
+
 组装
 https://support.10xgenomics.com/de-novo-assembly/software/overview/welcome
 
